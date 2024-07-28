@@ -1,12 +1,6 @@
 <h1 align="left">Hi 👋, I'm Seungju Kim</h1>
 <h3 align="left">A Full Stack Web Developer from korea</h3>
 
-- 🔭 I'm currently developing [승뮤니티](https://www.ddenzu.store/)
-
-- 🔭 I'm currently developing [websocketchat](https://websocket-chat-ddenzu.koyeb.app/)
-
-- 🔭 I'm currently developing [ai-interview](https://ai-interview-ddenzu.koyeb.app/)
-
 - 👨‍💻 My portfolio can be viewed here [https://tidal-sky-46b.notion.site/Seung-Ju-Kim-ce8841c405754d8da3b302c3e7abfbc8](https://tidal-sky-46b.notion.site/Seung-Ju-Kim-ce8841c405754d8da3b302c3e7abfbc8)
 
 <h3 align="left">Connect with me:</h3>
