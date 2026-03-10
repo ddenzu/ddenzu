@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f172a,100:1e293b&text=SEUNGJU%20KIM&fontSize=36&fontColor=ffffff&fontAlignY=24&desc=Backend%20%2F%20DevOps%20Engineer&descSize=18&descAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&height=210&color=0:1e293b,100:475569&text=SEUNGJU%20KIM&fontSize=36&fontColor=ffffff&fontAlignY=24&desc=Backend%20%2F%20DevOps%20Engineer&descSize=18&descAlignY=38)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ddenzu&" alt="ddenzu" /></p>
 
