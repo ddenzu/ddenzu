@@ -6,5 +6,5 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ddenzu" width="520" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=ddenzu" width="560" height="150"/>
 </p>
