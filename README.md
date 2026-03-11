@@ -2,5 +2,5 @@
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ddenzu" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddenzu&layout=compact&bg_color=180,fff7e5,00000000&title_color=000000&text_color=000000"/>"
-  <img src="https://github-readme-streak-stats.demolab.com/?user=ddenzu" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=ddenzu" height="170"/>
 </p>
