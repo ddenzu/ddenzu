@@ -3,7 +3,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ddenzu&theme=dark" width="560" height="200"/>
 </p>
-
-<p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ddenzu" width="250"/>
-</p>
